@@ -2,7 +2,6 @@
 title: "R Notebook"
 author: "Lee Hin Sing Raymond"
 date: "November 2021"
-output: pdf_document
 ---
 
 This R Markdown file is created to provide introduction of previous R assignment.

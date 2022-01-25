@@ -1,0 +1,18 @@
+---
+title: "R Notebook"
+author: "Lee Hin Sing Raymond"
+date: "November 2021"
+output: pdf_document
+---
+
+This R Markdown file is created to provide introduction of previous R assignment.
+
+In assignment 1, we have to create a R script that prints all integers between 1 and 10.
+
+You can find the R script in my GitHub repository, [st2195_assignment_1](https://github.com/u3509094/st2195_assignment_1).
+
+I used the [*colon operator*](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Colon.html) to generate a list of integers from 1 to 10.
+
+```{R}
+1:10
+```

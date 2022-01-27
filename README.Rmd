@@ -1,7 +1,7 @@
 ---
 title: "ST2195 Programming for Data Science"
 author: "Lee Hin Sing Raymond"
-data: November 2021
+date: November 2021
 ---
 
 # Practice Assignment 1
